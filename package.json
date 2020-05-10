@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap",
+  "name": "bootstrap-minimized-deps",
   "version": "3.4.1",
   "description": "Bootstrap and Angular-UI-Bootstrap Dependencies for WLW",
   "scripts": {
