@@ -410,11 +410,21 @@
     "wells.less",
     "close.less",
     "component-animations.less",
-    "tooltip.less"
+    "dropdowns.less",
+    "tooltip.less",
+    "popovers.less",
+    "carousel.less"
   ],
   "js": [
+    "alert.js",
     "button.js",
+    "carousel.js",
+    "dropdown.js",
+    "modal.js",
     "tooltip.js",
+    "popover.js",
+    "tab.js",
+    "affix.js",
     "collapse.js",
     "scrollspy.js",
     "transition.js"
