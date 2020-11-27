@@ -393,6 +393,7 @@
     "navs.less",
     "pagination.less",
     "pager.less",
+    "badges.less",
     "jumbotron.less",
     "alerts.less",
     "progress-bars.less",
